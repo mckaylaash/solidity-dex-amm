@@ -35,8 +35,3 @@ Unlike traditional order book exchanges, this DEX uses an automated market maker
 
 This project uses **Truffle** for smart contract compilation and testing, and **Ganache** for a local blockchain simulation.
 
-### Prerequisites & Installation
-
-1. Clone the repository and navigate to the project directory:
-   ```bash
-   cd Assignment3
