@@ -1,4 +1,4 @@
-Building a DEX Platform
+# Building a DEX Platform
 
 A decentralized exchange (DEX) peer-to-peer marketplace built using Solidity smart contracts. This protocol is derived from **Uniswap v2**, utilizing the constant product market maker model ($x \cdot y = k$) and liquidity pools to facilitate token exchanges and reward liquidity providers.
 
